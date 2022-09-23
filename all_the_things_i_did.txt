@@ -1,0 +1,41 @@
+commit 545f8830f3447a1564fd02def61ec2f77d13581f
+Author: shuhu2021 <s2051418@ed.ac.uk>
+Date:   Thu Oct 21 14:03:53 2021 +0100
+
+    This is the final version I submitted
+
+commit a24b4056fb3aca19f1f214a3599f45459a070731
+Author: shuhu2021 <s2051418@ed.ac.uk>
+Date:   Thu Oct 21 10:18:18 2021 +0100
+
+    A separate script that calculates the mean of each group
+
+commit 44f45a7a0de4ab08f6481a4572708ee9d35b5995
+Author: shuhu2021 <s2051418@ed.ac.uk>
+Date:   Mon Oct 18 19:16:17 2021 +0100
+
+    This is the final version I submitted
+
+commit b419f6072797480ef94d00f1504afe430bb9046e
+Author: shuhu2021 <s2051418@ed.ac.uk>
+Date:   Sun Oct 17 20:04:37 2021 +0100
+
+    This is my really final version; I calculated the means of every group and finished the foldchange
+
+commit 503dee5b37becd781f3c73ea61d6045f6fa9f930
+Author: shuhu2021 <s2051418@ed.ac.uk>
+Date:   Sat Oct 16 21:11:39 2021 +0100
+
+    This is my final version; I calculated the mean of every group
+
+commit c75f465fc557bc24c7501397b1e15212f2cc7f4c
+Author: shuhu2021 <s2051418@ed.ac.uk>
+Date:   Fri Oct 15 12:37:18 2021 +0100
+
+    I added some loops
+
+commit ad6ba3655e056782323bdb1d9346adc93b919034
+Author: shuhu2021 <s2051418@ed.ac.uk>
+Date:   Tue Oct 12 17:53:30 2021 +0100
+
+    This is my first version —very crude processing of one sample
